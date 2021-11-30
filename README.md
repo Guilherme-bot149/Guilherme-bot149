@@ -17,7 +17,7 @@
 **<h3> :rocket: Technologies </h3>**
 
 <div>
-  <a href="https://github.com/Mateus20Barros">
+  <a href="https://github.com/Guilhemre-bot149">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mateus20Barros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus20Barros&layout=compact&langs_count=16&theme=dracula"/>
 </div>
@@ -36,9 +36,9 @@
 
 **<h3>:mailbox: Find me</h3>**
 <div> 
-  <a href="https://www.linkedin.com/in/mateus-barros-a7a78b159/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/matteus__barros/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-b5179e?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matteusmaciel40@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-freire-4921471b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/guifreie63/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-b5179e?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:guilhermeffsilva52@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
 ***
