@@ -25,9 +25,7 @@
 <div style="display: inline-block">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="35" width="45" align="center"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="35" width="45" align="center"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="35" width="45" align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="35" width="45" align="center"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="35" width="45" align="center"/>
+  <img src="https://www.ifpe.edu.br/campus/palmares/noticias/curso-de-extensao-em-java/javalogo.png" height="35" width="45" align="center"/>
   
   ![Snake animation](https://github.com/Guilherme-bot149/Guilherme-bot149/blob/output/github-contribution-grid-snake.svg)
 </div>
