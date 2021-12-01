@@ -3,7 +3,7 @@
   <img align="right" width="150" height="150" alt="Rafa-yoda" src="https://wingware.com/images/blog/quick-select/quick-select-1.gif"/>
 </div> 
 
-### **Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm *Mateus Barros!***** 
+### **Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"> I'm *Mateus Barros!***** 
 
 
 ⚽ from Brazil. <br>
