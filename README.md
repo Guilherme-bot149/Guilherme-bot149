@@ -5,6 +5,7 @@
 
 ### **Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm *Mateus Barros!***** 
 
+<style> background-color: #000; </style>
 
 ⚽ from Brazil. <br>
 💜 Passionate about technology. <br>
