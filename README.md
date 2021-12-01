@@ -3,8 +3,8 @@
   <img align="right" width="150" height="150" alt="Rafa-yoda" src="https://i.pinimg.com/originals/e6/2a/fd/e62afd154b9ec394b7d282c7ef8e688c.gif"/>
 </div> 
 
-### **Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm *Guilherme Freire!***** 
-<iframe src="https://giphy.com/embed/coxQHKASG60HrHtvkt" width="480" height="251" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coxQHKASG60HrHtvkt">via GIPHY</a></p>
+### **Hi there <img src="https://giphy.com/embed/coxQHKASG60HrHtvkt" width="30px"> I'm *Guilherme Freire!***** 
+
 
 ⚽ from Brazil. <br>
 💜 Passionate about technology. <br>
