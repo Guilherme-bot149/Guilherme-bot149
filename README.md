@@ -1,4 +1,5 @@
 ***
+<div class="background">
 <div>
   <img align="right"  alt="Rafa-yoda" src="https://wingware.com/images/blog/quick-select/quick-select-1.gif"/>
 </div> 
@@ -41,5 +42,7 @@
   <a href="https://www.instagram.com/guifreire63/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-b5179e?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:guilhermeffsilva52@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+  </div>
   
+  <style> .background{background-color: #000;} </style>
 ***
