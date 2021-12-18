@@ -9,7 +9,7 @@
 </p> 
 <p> </p>
 
-### **Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm *Guilherme Freire!***
+### **Hi there <img src="https://i.gifer.com/8RDg.gif" width="30px"> I'm *Guilherme Freire!***
 
 
 ⚽ from Brazil. <br>
