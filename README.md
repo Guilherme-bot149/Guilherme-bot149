@@ -31,9 +31,10 @@
 <div style="display: inline-block">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="55" width="65" align="center"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="55" width="65" align="center"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height="55" width="65" align="center"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" height="55" width="65" align="center"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="55" width="65" align="center"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="55" width="65" align="center"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="55" width="65" align="center"/>
   
   ![Snake animation](https://github.com/Guilherme-bot149/Guilherme-bot149/blob/output/github-contribution-grid-snake.svg)
 </div>
