@@ -35,6 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="55" width="65" align="center"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="55" width="65" align="center"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="55" width="65" align="center"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" height="55" width="65" align="center"/>
   
   ![Snake animation](https://github.com/Guilherme-bot149/Guilherme-bot149/blob/output/github-contribution-grid-snake.svg)
 </div>
