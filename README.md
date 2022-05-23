@@ -14,7 +14,7 @@
 
 ⚽ from Brazil. <br>
 💜 Passionate about technology. <br>
-👨‍💻 My focus is on _back-end development_. <br>
+👨‍💻 My focus is on  desenvolvimento Full Stack. <br>
 📚 Always focused on obtaining new knowledge in this wonderful world that is web development. <br>
 🌎 In my free time a like to learn languages as *_`English`_* . <br>
 
