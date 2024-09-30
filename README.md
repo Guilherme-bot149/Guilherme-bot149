@@ -5,7 +5,7 @@
 </div> 
   
   <p>
-  <img src="https://gpvc.arturio.dev/mgckaled" alt="profile views">
+
 </p> 
 <p> </p>
 
