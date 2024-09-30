@@ -23,7 +23,7 @@
 **<h3> :rocket: Technologies </h3>**
 
 <div>
-  <a href="https://github.com/Guilherme-bot149">
+  <a href="https://github.com/Guilherme-bot149?tab=repositories">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-bot149&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-bot149&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
