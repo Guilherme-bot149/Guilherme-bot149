@@ -29,6 +29,7 @@
 </div>
 <br>
 <div style="display: inline-block">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" height="55" width="65" align="center"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="55" width="65" align="center"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="55" width="65" align="center"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="55" width="65" align="center"/>
