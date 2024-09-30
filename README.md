@@ -1,7 +1,7 @@
 ***
 <div class="background">
 <div>
-  <img align="right"  alt="Rafa-yoda" src="https://wingware.com/images/blog/quick-select/quick-select-1.gif](https://i.giphy.com/26tn33aiTi1jkl6H6.webp)"/>
+  <img align="right"  alt="Rafa-yoda" src="https://wingware.com/images/blog/quick-select/quick-select-1.gif](https://i.giphy.com/26tn33aiTi1jkl6H6.webp"/>
 </div> 
   
   <p>
