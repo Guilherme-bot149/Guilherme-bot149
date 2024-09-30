@@ -1,7 +1,7 @@
 ***
 <div class="background">
 <div>
-  <img align="right"  alt="Rafa-yoda" src="https://scotthollows.com/wp-content/uploads/2017/11/delphi_ide_font_change_hotkeys_animated.gif"/>
+  <img width="300" align="right"  alt="Rafa-yoda" src="https://scotthollows.com/wp-content/uploads/2017/11/delphi_ide_font_change_hotkeys_animated.gif"/>
 </div> 
   
   <p>
